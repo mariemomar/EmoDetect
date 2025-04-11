@@ -8,10 +8,10 @@ This project aims to detect whether a person is angry or calm based on audio fea
 
 This program processes audio data to extract features and then applies both Logistic Regression and Naive Bayes classifiers to determine the emotional state of a person. It classifies audio input as either "Angry" or "Calm" based on patterns learned from the features.
 
-# Example of Angry Calm!
+# Example of Calm Signal Voice!
 ![image](images/demo1.png)
 
-# Example of Calm Angry!
+# Example of Angry Signal Voice!
 ![image](images/demo2.png)
 
 ## How It Works
